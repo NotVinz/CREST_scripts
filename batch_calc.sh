@@ -1,4 +1,4 @@
-for i in diethyl_ether ethylene_glycol n-hexane dichloroethane dimethoxyethane triethylamine diglyme n-pentane
+for i in */
 do
 cd $i
 
