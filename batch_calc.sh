@@ -1,3 +1,6 @@
+#Run this script in a folder containing some single-molecule *.xyz files.
+#Conformers are calculated via CREST and ORCA.
+
 mkdir optimized_confs
 
 
