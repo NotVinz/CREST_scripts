@@ -16,7 +16,7 @@ foreach {a} $x {
   }
   # tutti tra 0 e 360
   
-  if {[expr $a > 0 && $a <= 30]} {
+  if {[expr $a >= 0 && $a <= 30]} {
    lappend result "t00"
   }
   if {[expr $a > 30 && $a <= 75]} {
