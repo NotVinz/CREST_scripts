@@ -14,4 +14,7 @@ x, x0 -> ca. 90° cw, ccw
 
 t00 -> eclipsed
 
+Results are stored in "report.txt"
+
+
 Lazily written by Vincenzo Brancaccio, 2022
