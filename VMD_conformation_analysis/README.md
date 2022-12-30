@@ -1,4 +1,7 @@
-Given a set of conformers (same atom numbering), writes the conformation of the molecule by analyzing the dihedral angles specified in the tcl script.
+Given a set of conformers in xyz format (same atom numbering), writes the conformation of the molecule by analyzing the dihedral angles specified in the tcl script.
+
+Run batch.sh to execute.
+
 Some sample conformers of diglyme are included.
 
 Conformations are marked as:
