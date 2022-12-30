@@ -5,9 +5,13 @@ Run batch.sh to execute.
 Some sample conformers of diglyme are included.
 
 Conformations are marked as:
+
 t -> trans
+
 g, g0 -> gauche (ca. 60° cw, ccw)
+
 x, x0 -> ca. 90° cw, ccw
-t0 -> eclipsed
+
+t00 -> eclipsed
 
 Lazily written by Vincenzo Brancaccio, 2022
